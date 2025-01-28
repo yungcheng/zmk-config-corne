@@ -1,1 +1,1 @@
-![Keymap preview](/my_keymap.svg)
+![Keymap preview](my_keymap.svg)
